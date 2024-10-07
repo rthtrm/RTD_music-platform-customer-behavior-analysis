@@ -22,7 +22,7 @@ Exploratory Data Analysis (EDA):
 We performed EDA to visualize user activity trends over time, comparing city-specific behaviors. Key plots were generated to display streaming volumes by day of the week and genre preferences in each city.
 
 Tools & Technologies Used
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas)
 Jupyter Notebook
 GitHub (for version control)
 
