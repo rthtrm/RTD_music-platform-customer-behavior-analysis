@@ -33,9 +33,17 @@ Music preference varies little among listeners, where Pop is most popular genre 
 Personlized content recommendation based on days of the week or occassion as opposed to location. 
 
 ## How to run notebook: 
-1. Clone repository: git clone https://github.com/rthtrm/RTD_music-platform-customer-behavior-analysis.git
-2. Install required Phyton libraries: pip install -r requirements.txt
-3. Open Jupyter Notebook: jupyter notebook
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rthtrm/RTD_music-platform-customer-behavior-analysis.git
+
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
 
 ## Contact
 If you have any questions or feedback, feel free to reach out to me via LinkedIn.
